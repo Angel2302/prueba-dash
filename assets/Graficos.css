@@ -1,0 +1,24 @@
+.graficoPastel{
+  float: left;
+  width: 625px;
+  height: 500px;
+  background-color: lightblue;
+}
+.graficoBarras{
+    float: right;
+    width: 700px;
+    height: 500px;
+    background-color: lightblue;
+  }
+  .graficoPastelCarroceria{
+    float: right;
+    width: 700px;
+    height: 500px;
+    background-color: lightblue;
+  }
+  .graficoLineas{
+    float: left;
+    width: 625px;
+    height: 500px;
+    background-color: lightblue;
+  }

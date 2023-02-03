@@ -1,0 +1,13 @@
+.app-header {
+    height: 60px;
+    line-height: 60px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: darkgreen;
+    }
+
+.app-header .app-header--title {
+    font-size: 33px;
+    padding-left: 5px;
+    text-align: center;
+}
